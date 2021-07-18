@@ -8,3 +8,6 @@ Site : https://futurehosting.org/
 Discord : https://discord.gg/DNme6pzFQB
 
 Order discord bot server : https://billing.futurehosting.org/index.php?rp=/store/discord-bot-voice-hosting
+
+## ** Invite Public Version **
+[Invite Now](https://discord.com/oauth2/authorize?client_id=856953042029379604&scope=bot&permissions=8)
