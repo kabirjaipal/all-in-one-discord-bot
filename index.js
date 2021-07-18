@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 const { Client, Message, MessageEmbed, Collection } = require("discord.js");
-const YoutubePoster = require("discord-yt-poster");
 const fs = require("fs");
 const colors = require("colors")
 const config = require("./config/config.json");
@@ -18,9 +17,6 @@ const client = new Client({
   disableEveryone: true,
   partials: ["MESSAGE", "CHANNEL", "REACTION"],
 });
-const disbut = require('discord-buttons');
-disbut(client);
-client.YTP = new YoutubePoster(client);
 const DisTube = require("distube");
 // MongoDB
 const mongoose = require("mongoose");
