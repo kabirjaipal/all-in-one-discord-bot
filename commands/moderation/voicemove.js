@@ -31,6 +31,7 @@ module.exports = {
                     .setAuthor('| Voicemove', message.author.avatarURL({ dynamic: true }))
                     .setDescription('**:control_knobs: Now, move me and I\'ll drag users to a new voice channel.**')
                     .setColor('BLUE')
+                    .setFooter(`Developed by : ᴵ ᵃᵐ туѕσи#2806`)
 
                 message.channel.send(e)
 
