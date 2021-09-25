@@ -38,7 +38,7 @@
     "figlet": "^1.5.0",
     "got": "^11.8.2",
     "install": "^0.13.0",
-    "mathjs": "^9.4.2",
+    "mathjs": "^9.5.0",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^5.12.14",
