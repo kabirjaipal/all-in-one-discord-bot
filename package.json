@@ -42,7 +42,7 @@
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^5.12.14",
-    "ms": "^2.1.2",
+    "ms": "^2.1.3",
     "node-fetch": "^2.6.1",
     "npm": "^7.24.1",
     "nuggies": "^1.0.9",
