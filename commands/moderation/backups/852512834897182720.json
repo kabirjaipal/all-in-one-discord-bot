@@ -1,0 +1,1482 @@
+{
+    "name": "Tutorial",
+    "region": "india",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Voice Channels",
+                "permissions": [
+                    {
+                        "roleName": "muted",
+                        "allow": 0,
+                        "deny": 3147840
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "General",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Voice Channels",
+                        "permissions": [
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "Join To Create VC",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Voice Channels",
+                        "permissions": [
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Text Channels",
+                "permissions": [
+                    {
+                        "roleName": "muted",
+                        "allow": 0,
+                        "deny": 3147840
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": "Text Channels",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "** <#851317896675459072> has been placed under lockdown for 10m  **",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙#8148"
+                                        },
+                                        "footer": {
+                                            "text": "Coded by: Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "** slowmode is now 10 Minutes... **",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙#8148"
+                                        },
+                                        "footer": {
+                                            "text": "Coded by: Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "** slowmode is now 5 Seconds... **",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙#8148"
+                                        },
+                                        "footer": {
+                                            "text": "Coded by: Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "🎈 Ping: `90ms`\n\n🎈 Api Latency: `424ms`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/Um4AxN0EZtIhY-i4LR3TB0exA67z0k5SciYbLs1AUe4/https/cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded by: Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "HELP MENU 🔰 Commands",
+                                        "type": "rich",
+                                        "description": "Use `!help` followed by a command name to get more additional information on a command. For example: `!help ban`.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [
+                                            {
+                                                "name": "Prefix Information",
+                                                "value": "Prefix: `!`\nYou can also mention <@850553375631474709> to get prefix info.",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "• Developer",
+                                                "value": "```yml\nName: ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙#8148 [821095540569407508]\nName Ξ Kabir Jaipal [821095540569407508]```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "• Important Links",
+                                                "value": "**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=850553375631474709&permissions=8&scope=bot)`|`[Support Server](https://discord.gg/KRX2tgNA7R)`|`[Youtube](https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ/)`**",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "⛔️ MODERATION",
+                                                "value": "`addrole` `ban` `dm` `kick` `purge` `removerole` `set-rules`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "🔯 UTILITY",
+                                                "value": "`ascii` `avatar` `calculate` `enlarge`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "🤖 INFORMATION",
+                                                "value": "`botinfo` `channelinfo` `help` `membercount` `ping` `role` `roles` `serverinfo` `userinfo`",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/Um4AxN0EZtIhY-i4LR3TB0exA67z0k5SciYbLs1AUe4/https/cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "To see command descriptions and inforamtion, type: !help [CMD NAME]",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ovrbenni",
+                                "avatar": "https://cdn.discordapp.com/avatars/380079762972082176/bfb84ce647921c45ba9dd06147490db1.webp",
+                                "content": "!heko",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Read all Rules Carefully",
+                                        "type": "rich",
+                                        "description": "Read the above rules carefully and do follow them.\n\n    Note: The rules will be changed as per the requirements in the future.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14535731,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://media.discordapp.net/attachments/691896715661410365/808632776331886602/Black_and_Pink_Glitch_Gaming_Facebook_Cover_1.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/IhAsqOvfs8Dys6f_mT9K0wsZawfNP7ijJKUN-Qgbhxc/https/media.discordapp.net/attachments/691896715661410365/808632776331886602/Black_and_Pink_Glitch_Gaming_Facebook_Cover_1.gif",
+                                            "height": 221,
+                                            "width": 671
+                                        },
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded by: Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Voice Rules",
+                                        "type": "rich",
+                                        "description": "📜  3.1. Posting any content related to piracy, cheats, cracks, exploits or any kind of copyright breaching materials is forbidden.\n        📜  3.2. Any malicious activity toward the server or any member is forbidden.\n        📜  3.3 This server follows all the Discord Guidelines and TermsOfServices. Please do read and follow all them listed.\n        📜  3.4 Threats such as DDoS, DoX, or generalized threats are strictly prohibited and will result in an immediate removal/ban from the community.\n        📜   3.5 Any attempts to “rape” other fellow community members is strictly prohibited and will result in an immediate removal/ban from the server.\n        📜   3.6 Intentional toxic behavior is not allowed\n        📜   3.7. Do not Argue With Any Mod/Staff. Their Decision will be last Decision\n        📜   3.8. Do not use voice changer in vc, this will lead to permanent ban from the server.\n        📜   3.9. Do not blow air in the mic or else you will be banned from vc.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://media.discordapp.net/attachments/691896715661410365/808632776331886602/Black_and_Pink_Glitch_Gaming_Facebook_Cover_1.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/IhAsqOvfs8Dys6f_mT9K0wsZawfNP7ijJKUN-Qgbhxc/https/media.discordapp.net/attachments/691896715661410365/808632776331886602/Black_and_Pink_Glitch_Gaming_Facebook_Cover_1.gif",
+                                            "height": 221,
+                                            "width": 671
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Chat Rules",
+                                        "type": "rich",
+                                        "description": "📜 2.1. Don’t Spam (Emoji , same msg again & again or Dont spam for Level Increase.\n    📜  2.3. If any of staff member is asking to Change the Topic of conversation then it needs to be changed, if it gets too offensive to other members. If not followed, there are kick/ban.\n        \n    📜 2.4. We highly request to our old members to welcome new members & try including them in your conversation. Don’t act creepy or rude towards the new members because they do not know how to behave in server.\n        \n    📜 2.5. Respect all staff and follow their instruction , Do not Use Abusive/odd Names/ Profile Pictures. If Any mod Found You Guilty they Can Change Your Name Any time.\n        \n    📜  2.6. Don’t expose anyone. Do not send any private information of anyone without permission. That includes pictures.\n        \n    📜 2.7. Do not randomly tag staff if unnecessary.\n        \n    📜 2.8. If you are annoyed by someone: Just block the person and move on.\n        \n    📜 2.9. Have common sense to understand puns/sarcasm.\n        \n    📜 2.10. Do not misbehave with girls and respect each and everyone member in the server.\n        \n    📜  2.11 Excessive use of bad language will lead to permanent ban/kick.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14535731,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://media.discordapp.net/attachments/691896715661410365/808632776331886602/Black_and_Pink_Glitch_Gaming_Facebook_Cover_1.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/IhAsqOvfs8Dys6f_mT9K0wsZawfNP7ijJKUN-Qgbhxc/https/media.discordapp.net/attachments/691896715661410365/808632776331886602/Black_and_Pink_Glitch_Gaming_Facebook_Cover_1.gif",
+                                            "height": 221,
+                                            "width": 671
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "General Rules",
+                                        "type": "rich",
+                                        "description": "📜  1.1. Treat all members with respect.\n        📜  1.2. Harassment, abuse, hate speech or any kind of discriminatory speech will not be tolerated.\n        📜  1.3. Do not in any way intentionally offend any member in the Discord server.\n        📜  1.4 Racial or offensive slurs will not be tolerated.\n        📜  1.5. Tagging a member/staff member without reason will result in a warning.\n        📜  1.6. Revealing private information about any individual; is a zero tolerance rule.\n        📜  1.7. Do not publicly accuse other users/players of misconduct.\n        📜  1.8. No backseat modding.\n        📜  1.9. No talking about topics related to religion or politics.\n        📜  1.10. Words or small sentences in other languages other than English are allowed only for the purpose of teaching someone, or for clarification.\n        📜  1.11. We welcome constructive criticism but have zero tolerance for aggressive or entitled demands.\n        📜  1.12 Female Members Of The Server Are Supposed To Verify Themselves Through Voice Channels By Female Moderators As Soon As Possible Upon Joining Server Also If Already In Server To Avoid Certain Scenarios, Impersonating Using Fake Female Accounts Will Get Permanent Server Ban Once Proven.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14535731,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://media.discordapp.net/attachments/691896715661410365/808632776331886602/Black_and_Pink_Glitch_Gaming_Facebook_Cover_1.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/IhAsqOvfs8Dys6f_mT9K0wsZawfNP7ijJKUN-Qgbhxc/https/media.discordapp.net/attachments/691896715661410365/808632776331886602/Black_and_Pink_Glitch_Gaming_Facebook_Cover_1.gif",
+                                            "height": 221,
+                                            "width": 671
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Text Channels",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "@​ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙, LOADING...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                "avatar": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.webp",
+                                "content": "!backup create",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "PLEASE USE A VALID PARAMETER!",
+                                        "type": "rich",
+                                        "description": "`<prefix>backup create` -- *saves from this server*\n`<prefix>backup load <ID>` -- *Loads in&from this server*\n`<prefix>backup info <ID>` -- *Shows info of this backup*\n`<prefix>backup list [SERVERID]` -- *Shows list of this/other Server*\n`<prefix>backup loadother <SERVERID> <ID>` -- *Loads Backup from Different Server*",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                "avatar": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.webp",
+                                "content": "!backup",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nickname Changed !!",
+                                        "type": "rich",
+                                        "description": "✅ <@839363882162192405> (`Tech Boy Gaming#2553`) nickname has been successfully changed !!",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T11:31:16.296Z",
+                                        "color": 15158332,
+                                        "fields": [
+                                            {
+                                                "name": "Changed By",
+                                                "value": "<@821095540569407508>\n(`ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙#8148`)",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Changed User",
+                                                "value": "<@839363882162192405>\n(`Tech Boy Gaming#2553`)",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Changelog",
+                                                "value": "From `<@!839363882162192405>` to `Hehe`",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                "avatar": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.webp",
+                                "content": "!set-nick @​Hehe  Hehe ji",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nickname Changed !!",
+                                        "type": "rich",
+                                        "description": "✅ <@839363882162192405> (`Tech Boy Gaming#2553`) nickname has been successfully changed !!",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T11:30:21.036Z",
+                                        "color": 15158332,
+                                        "fields": [
+                                            {
+                                                "name": "Changed By",
+                                                "value": "<@821095540569407508>\n(`ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙#8148`)",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Changed User",
+                                                "value": "<@839363882162192405>\n(`Tech Boy Gaming#2553`)",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Changelog",
+                                                "value": "From `Tech Boy Gaming` to `<@!839363882162192405>`",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                "avatar": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.webp",
+                                "content": "!set-nick @​Hehe  Hehe ji",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nickname Reseted !!",
+                                        "type": "rich",
+                                        "description": "✅ <@839363882162192405> (`Tech Boy Gaming#2553`) nickname has been successfully Reseted !!",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T11:29:25.498Z",
+                                        "color": 15158332,
+                                        "fields": [
+                                            {
+                                                "name": "Changed By",
+                                                "value": "<@821095540569407508>\n(`ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙#8148`)",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Changed User",
+                                                "value": "<@839363882162192405>\n(`Tech Boy Gaming#2553`)",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                "avatar": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.webp",
+                                "content": "!reset-nick @​Hehe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "audit-log",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Text Channels",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel DELETED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙's Room`\nChannelID: `852506054901628938`\nChannelTYPE: `voice`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T11:14:46.898Z",
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel CREATED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙's Room`\nChannelID: `852506054901628938`\nChannelTYPE: `voice`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T11:14:42.208Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel CREATED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙's Room`\nChannelID: `852505628631105537`\nChannelTYPE: `voice`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T11:13:00.635Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel DELETED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙's Room`\nChannelID: `852502352321577030`\nChannelTYPE: `voice`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T11:00:13.543Z",
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel CREATED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙's Room`\nChannelID: `852502352321577030`\nChannelTYPE: `voice`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T10:59:59.547Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Message Deleted",
+                                        "type": "rich",
+                                        "description": "**Author : ** <@821095540569407508> - *ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙#8148*\n**Date : ** Thu Jun 10 2021 16:09:22 GMT+0530 (India Standard Time)\n**Channel : ** <#852078921452617789> - *chat*\n**Deleted Message : **\n```\n!set-jointocreate <#850554192263118869>\n```\n**Attachment URL : **",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T10:39:23.253Z",
+                                        "color": 15105570,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel DELETED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙's Room`\nChannelID: `852488622417510410`\nChannelTYPE: `voice`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T10:05:42.310Z",
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel CREATED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙's Room`\nChannelID: `852488622417510410`\nChannelTYPE: `voice`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T10:05:26.056Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel DELETED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `welcome`\nChannelID: `852143770769031178`\nChannelTYPE: `text`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T10:01:23.477Z",
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Tutorial",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Channel DELETED",
+                                        "type": "rich",
+                                        "description": "ChannelNAME: `logs`\nChannelID: `852122901716664330`\nChannelTYPE: `text`",
+                                        "url": null,
+                                        "timestamp": "2021-06-10T10:01:18.532Z",
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By `Tech Boy Gaming `"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "JUGNU Music - Requests",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "muted",
+                        "allow": 0,
+                        "deny": 3147840
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🎧｜JUGNU Music",
+                        "bitrate": 96000,
+                        "userLimit": 30,
+                        "parent": "JUGNU Music - Requests",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎵｜requests",
+                        "nsfw": false,
+                        "rateLimitPerUser": 6,
+                        "parent": "JUGNU Music - Requests",
+                        "topic": "To request a Track, simply Type the **SONG NAME** into the Channel or the **URL** and the Bot will play it! Make sure that you are in the **right** Voice Channel (🎧｜JUGNU Music)!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 3136,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Tech Boy Gaming",
+                                "avatar": "https://cdn.discordapp.com/avatars/839363882162192405/746517b529cf3c10376e860a4e7e62d2.webp",
+                                "content": "jas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "[object Object]",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Getting Userinfo...",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14535731,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Server Info",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 1048575,
+                                        "fields": [
+                                            {
+                                                "name": "**Guild Owner:**",
+                                                "value": "<@821095540569407508>",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Server region",
+                                                "value": "india",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Member Count:**",
+                                                "value": "2",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Boost Count:-",
+                                                "value": "0",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Boost Level:-",
+                                                "value": "0",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Server Stats:-",
+                                                "value": "3⌨️\n2🔈\n0📢\n3📁",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Emoji Count:-",
+                                                "value": "0\n0(Non Animated)\n0(Animated)",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Total Real Members**",
+                                                "value": "1",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Total Bots**",
+                                                "value": "1",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Total Channels**",
+                                                "value": "8",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Total Text Channels**",
+                                                "value": "3",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Total Voice Channels**",
+                                                "value": "2",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Created On**",
+                                                "value": "5/6/2021, 7:28:41 am",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Roles**",
+                                                "value": "@everyone\n<@&850554243847815169>",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Tutorial"
+                                        },
+                                        "footer": {
+                                            "text": "© Total Bot"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Server Info",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 1048575,
+                                        "fields": [
+                                            {
+                                                "name": "**Guild Owner:**",
+                                                "value": "<@821095540569407508>",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Server region",
+                                                "value": "india",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Member Count:**",
+                                                "value": "2",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Boost Count:-",
+                                                "value": "0",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Boost Level:-",
+                                                "value": "0",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Server Stats:-",
+                                                "value": "3⌨️\n2🔈\n0📢\n3📁",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Emoji Count:-",
+                                                "value": "0\n0(Non Animated)\n0(Animated)",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Total Real Members**",
+                                                "value": "1",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Total Bots**",
+                                                "value": "1",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Total Channels**",
+                                                "value": "8",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Total Text Channels**",
+                                                "value": "3",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Total Voice Channels**",
+                                                "value": "2",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Created On**",
+                                                "value": "5/6/2021, 7:28:41 am",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "**Roles**",
+                                                "value": "@everyone\n<@&850554243847815169>",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Tutorial"
+                                        },
+                                        "footer": {
+                                            "text": "© Total Bot",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/796748319518097419/6417c8b4c69da903eef8db73e435e5c3.png?size=512"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                "avatar": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.webp",
+                                "content": "!!sinfo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "😁😁 ` Welcome to My Help Menu ` 😁😁",
+                                        "type": "rich",
+                                        "description": "Use `!!help` followed by a command name to get more additional information on a command. For example: `!!help play`.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 399756,
+                                        "fields": [
+                                            {
+                                                "name": "Prefix Information",
+                                                "value": "Prefix: `!!`\nYou can also mention <@850553375631474709> to get prefix info.",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "🌀 INFO",
+                                                "value": "`delete` `help` `invite` `ping` `uptime`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "🎵 MUSIC",
+                                                "value": "`addrelated` `autoplay` `playlist` `clearqueue` `custom` `forward` `grab` `join` `jump` `loop` `lyrics` `moveme` `mycustom` `nowplaying` `pause` `play` `playsc` `playskip` `queue` `radio` `removetrack` `replay` `resume` `rewind` `search` `searchrelated` `searchsc` `seek` `shuffle` `skip` `status` `stop` `volume`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "🎵 MUSIC FILTER",
+                                                "value": "`8d` `bassboost` `clear` `earrape` `echo` `flanger` `gate` `haas` `heavybass` `karaoke` `lightbass` `mcompand` `nightcore` `phaser` `pulsator` `purebass` `reverse` `subboost` `surrounding` `treble` `tremolo` `vaporwave` `vibrato`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "🛡 SETUP",
+                                                "value": "`24/7` `adddj` `removedj` `prefix` `reset` `setup`",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/Um4AxN0EZtIhY-i4LR3TB0exA67z0k5SciYbLs1AUe4/https/cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Made By Kabir Jaipal aka Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ᴋᴀʙɪʀ々ꜱɪɴɢʜ🌙",
+                                "avatar": "https://cdn.discordapp.com/avatars/821095540569407508/a_2a7a9fba436d796ed5c678af742d9470.webp",
+                                "content": "!!help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Steve Jobs",
+                                        "type": "rich",
+                                        "description": "Fuck a double profit, triple that and go get it off it\nIf they want it, I might stock it\nCan't see them now, I just block it\nUse a pocket, fuck a wallet\nPocket watching, pic, I crop it\nIn Orlando, top, I drop it\nDrop, I cop it, I should stop it\nI won't make it, might Steve Jobs it\nIn the mall, tags popping\nBlood is dripping on me, falling\nSong recall it, now it's never dropping\nTreat you like my brother, or my cousin, but you're undercover\nTreat it like it's nothing, 'cause it wasn't, and it really wasn't\nMight sleep in a coffin, but I wake up, might be drinking coffee\nGet these people off me, get you off me, leave it like a crime scene\nYou might find a copy, but there's no one that can do it like me\nDo it like me, do it like me\nMisery loves company, so you should come hang with me\nSo come and hang with me, you should come hang with me\nSoon I'll be like you, you see, I take the form I need\nTrash on me, cost ten at least, don't speak, I sip my tea\nSuddenly it came to me, came to me in a dream\n\nYou can't do it like me, do it like me\nCan't do it like me, do it like me\nCan't do it like me\nCan't do it like me, do it like me\nMisery loves company, so come and hang with me",
+                                        "url": null,
+                                        "timestamp": "2021-06-06T10:35:11.647Z",
+                                        "color": 399756,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://images.genius.com/8ee32ef5142f2e583429ffcbf19dbf49.300x300x1.jpg",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/lVwRJW-E11z09ceUt4rFokc6qXj8Xu5ZN3CyFBBivSc/https/images.genius.com/8ee32ef5142f2e583429ffcbf19dbf49.300x300x1.jpg",
+                                            "height": 300,
+                                            "width": 300
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Bladee"
+                                        },
+                                        "footer": {
+                                            "text": "Made By Kabir Jaipal aka Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Sanam Re",
+                                        "type": "rich",
+                                        "description": "Bheegi-bheegi sadkon pe main tera intezaar karun\nDheere-dheere dil ki zameen ko tere hi naam karun\nKhudko main yoon kho doon, ke phir na kabhi paaun\nHaule-haule zindagi ko ab tere hawaale karun\n\nSanam re, sanam re, tu mera sanam hua re\nSanam re, sanam re, tu mera sanam hua re\nKaram re, karam re, tera mujhpe karam hua re\nSanam re, sanam re, tu mera sanam hua re\n\nTere kareeb jo hone laga hoon\nTo toote saare bharam re\nSanam re, sanam re, tu mera sanam hua re\nSanam re, sanam re, tu mera sanam hua re\n\nBaadalon ki tarah hi to tune mujhpe saaya kiya hai\nBaarishon ki tarah hi to tune khushiyon se bhigaya hai\nAandhiyon ki tarah hi to tune hosh ko udaaya hai\nMera muqaddar sanwara hai yoon, naya savera jo laaya hai tu\nTere sang hi bitaane hain mujhko mere saare janam re\n\nSanam re, sanam re, tu mera sanam hua re\nSanam re, sanam re, tu mera sanam hua re\nKaram re, karam re, tera mujhpe karam hua re\nSanam re, sanam re, tu mera sanam hua re\n\nMere sanam re mera hua re\nTera karam re mujhpe hua ye\nMere sanam re mera hua re\nTera karam re mujhpe hua ye",
+                                        "url": null,
+                                        "timestamp": "2021-06-06T10:34:36.354Z",
+                                        "color": 399756,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://images.genius.com/b9379a2de2985e3618bea3f727dc7327.300x300x1.jpg",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/jpf2KBx1v8x0xEnGu4Zy4SMnJrmwDdWJy1QANj4dY3M/https/images.genius.com/b9379a2de2985e3618bea3f727dc7327.300x300x1.jpg",
+                                            "height": 300,
+                                            "width": 300
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Mithoon & Arijit Singh"
+                                        },
+                                        "footer": {
+                                            "text": "Made By Kabir Jaipal aka Tech Boy Gaming"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "**Please wait, im looking for the Lyrics, It can take `few ` seconds** ⌚ .",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 399756,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "Lava Music - Requests",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "muted",
+                        "allow": 0,
+                        "deny": 3147840
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🎧｜Music",
+                        "bitrate": 96000,
+                        "userLimit": 10,
+                        "parent": "Lava Music - Requests",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎵｜requests",
+                        "nsfw": false,
+                        "rateLimitPerUser": 6,
+                        "parent": "Lava Music - Requests",
+                        "topic": "To request a Track, simply Type the **SONG NAME** into the Channel or the **URL** and the Bot will play it! Make sure that you are in the **right** Voice Channel (🎧｜Music)!\n\nhttps://lava.milrato.eu by: Tomato#6966",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 3136,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muted",
+                                "allow": 0,
+                                "deny": 3147840
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Lava Music | Currently no song is playing!",
+                                        "type": "rich",
+                                        "description": "Join a voice channel and enter a song name or url to play.\n[Invite Lava Music](https://lava.milrato.eu) • [Support Server](https://discord.com/invite/wvCp7q88G3)",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 2883630,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/754700756170440774/812443980293603329/lavamusic.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/754700756170440774/812443980293603329/lavamusic.gif",
+                                            "height": 225,
+                                            "width": 400
+                                        },
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By Tech Boy Gaming",
+                                            "icon_url": "https://www.thefennvoice.org/.a/6a017d3e8f0065970c022ad3c481a6200d-pi"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Lava Music | Music Queue",
+                                        "type": "rich",
+                                        "description": "Empty\nJoin a voice channel and queue songs by name or url in here.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 2883630,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By Tech Boy Gaming",
+                                            "icon_url": "https://www.thefennvoice.org/.a/6a017d3e8f0065970c022ad3c481a6200d-pi"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Total Bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/850553375631474709/9b3a21434f0e0b1d61f828c080929cc4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Lava Music | Request | Guide",
+                                        "type": "rich",
+                                        "description": "Enter the song name or URL to play a song\n\nYou can also type `!command <Parameters>`",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 2883630,
+                                        "fields": [
+                                            {
+                                                "name": "Commands",
+                                                "value": "`addprevious`, `addsimilar`, `autoplay`, `clearqueue`, `forceskip`, `forward`, `grab`, `join`, `jump`, `loop`, `loopqueue`, `loopsong`, `lyrics`, `move`, `moveme`, `nowplaying`, `pause`, `play`, `playlist`, `playprevious`, `playsc`, `playskip`, `playskipsc`, `playsongoftheday`, `queue`, `queuestatus`, `radio`, `removedupes`, `removetrack`, `removevoteskip`, `restart`, `resume`, `rewind`, `search`, `searchplaylist`, `searchradio`, `searchsc`, `searchsimilar`, `seek`, `shuffle`, `stop`, `unshuffle`, `volume`, `voteskip`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Reactions",
+                                                "value": "⏪ Rewind 20 seconds\n⏩ Forward 20 seconds\n⏯️ Pause/Resume\n⏹️ Stop Track\n⏮️ Play previous",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "​",
+                                                "value": "⏭️ Skip / Next\n🔃 Replay Track\n🔉 Volume -10 %\n🔊 Volume +10 %\n🔇 Toggle Volume Mute",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "​",
+                                                "value": "🔄 Change repeat mode\n♾ Toggle Autoplay\n🔀 Shuffle the queue\n📑 Show the Queue\n🩸 Shows Current Track",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Coded By Tech Boy Gaming",
+                                            "icon_url": "https://www.thefennvoice.org/.a/6a017d3e8f0065970c022ad3c481a6200d-pi"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "Owner",
+            "color": "#ad1457",
+            "hoist": false,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "Rainbow",
+            "color": "#0e5bcf",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "muted",
+            "color": "#222222",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1623325298762,
+    "guildID": "850554191465152542",
+    "id": "852512834897182720"
+}
