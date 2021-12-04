@@ -1,0 +1,24 @@
+{
+  "colour": "BLUE",
+  "wrongcolour": "RED",
+  "footertext": "Coded By Tech Boy Gaming",
+  "footericon": "https://media.discordapp.net/attachments/840420757037121566/857969645218693130/images_-_2021-06-25T183454.162.jpeg?width=500&height=427",
+  "WelcomeImage ": "https://wallpaperscraft.com/wallpaper/city_buildings_silhouettes_212901",
+  "categories": {
+    "games": "🎮",
+    "config": "⚙️",
+    "automod": "👍",
+    "giveaway": "🎉",
+    "information": "📻",
+    "moderation": "🔨",
+    "music": "🎵",
+    "musicfilter": "🎼",
+    "owner": "👑",
+    "leveling": "🎂",
+    "ticket": "🎫",
+    "utility": ":comet:",
+    "welcome_leave": "✨",
+    "rr_roles": "🎁",
+    "yt_poster": "❤"
+  }
+}
