@@ -4,6 +4,8 @@ Rock bot have many feature like Music System With Filters , Buttons , Moderation
 
 ## How to Self Host
 
+[Replit_Link](https://replit.com/@KabirJaipal/all-in-one-discord-bot?v=1)
+
 Download Code From Here and Extract it then open cmd in your directory then type `npm install ` hit enter
 then open config.json
 
